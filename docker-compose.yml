@@ -2,7 +2,7 @@ services:
   app:
     build: ./app
     environment:
-      OTEL_SERVICE_NAME: student-observability-app
+      OTEL_SERVICE_NAME: stud ent-observability-app
       OTEL_EXPORTER_OTLP_ENDPOINT: http://otel-collector:4317
     ports:
       - "8080:8080"
