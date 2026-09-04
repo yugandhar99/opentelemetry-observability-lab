@@ -1,5 +1,5 @@
 services:
-  app:
+  app: 
     build: ./app
     environment:
       OTEL_SERVICE_NAME: student-observability-app
