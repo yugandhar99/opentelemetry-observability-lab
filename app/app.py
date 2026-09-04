@@ -1,5 +1,5 @@
 from flask import Flask, jsonify
-import random 
+import random
 import time
 
 app = Flask(__name__)
