@@ -1,6 +1,6 @@
 schema_version: 1
 project:
-  number: 51 
+  number: 51
   slug: opentelemetry-observability-home-lab
   name: OpenTelemetry Observability Home Lab
 classification: learning
