@@ -1,4 +1,4 @@
-# OpenTelemetry Observability Home Lab
+# OpenTelemetry Observability Home Lab 
 
 > **Stage 7 of 12 — Career Progression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
