@@ -1,5 +1,5 @@
 receivers:
-  otlp:
+  otlp: 
     protocols:
       grpc:
         endpoint: 0.0.0.0:4317
