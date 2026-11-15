@@ -1,4 +1,4 @@
-se rvices:
+services:
   app:
     build: ./app
     environment:
